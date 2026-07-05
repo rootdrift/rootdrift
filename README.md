@@ -14,7 +14,9 @@ methodology, detection engineering · 📁 **[Portfolio](https://rootdrifter.io/
 ![Security Cleared](https://img.shields.io/badge/SECURITY%20CLEARED-DEPLOYABLE%20FROM%20DAY%20ONE%20%C2%B7%20NO%20VETTING%20DELAY-1f6feb?style=for-the-badge)
 
 Security-cleared professional building toward cleared entry-level roles in UK, Netherlands, and
-Germany. Active portfolio, ongoing Sec+ study, CTF practice.
+Germany. Evidence-led portfolio across offensive work (grey-box pentest, CTF), defensive
+engineering (Linux and GrapheneOS hardening, Wazuh detection), and security research (applied ML,
+causal LLM phishing evaluation) — documented end-to-end, not asserted.
 
 ---
 
