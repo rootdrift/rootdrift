@@ -1,71 +1,49 @@
-# rootdrifter
+🌐 **[rootdrifter.github.io](https://rootdrifter.github.io)** — Full portfolio
 
-🌐 **Full portfolio: <https://rootdrifter.github.io>** — interactive project pages, clearance details, and the complete skills matrix.
+![Security Cleared](https://img.shields.io/badge/SECURITY%20CLEARED-DEPLOYABLE%20FROM%20DAY%20ONE%20%C2%B7%20NO%20VETTING%20DELAY-1f6feb?style=for-the-badge)
 
-**Cybersecurity practitioner — hardened systems, offensive security, and applied ML security research.**
-
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0a2540)
-![Security Clearance](https://img.shields.io/badge/Security_Clearance-Held-1f6feb)
-![Markets](https://img.shields.io/badge/Markets-UK_·_NL_·_DE-2e7d32)
-![Certs](https://img.shields.io/badge/Certs-Security%2B_·_CEH_(in_progress)-6e40c9)
-
-I build and break systems with the same rigour: full-disk-encrypted hardened endpoints, grey-box
-penetration tests mapped to recognised benchmarks, and dissertation-level research into causal
-reasoning over social-engineering attacks. Every repository below documents work I actually built
-or carried out — methodology, evidence, and findings, no marketing.
+Security-cleared professional building toward cleared entry-level roles in UK, Netherlands, and
+Germany. Active portfolio, ongoing Sec+ study, CTF practice.
 
 ---
 
-## Security clearance — held now
+## Portfolio
 
-**I hold active security clearance.** Most graduates wait 6–12 months for vetting after a
-conditional offer; mine is already in place. That means **no vetting backlog, no holding pattern,
-and deployability to cleared work from day one** — a direct saving in time and cost for any employer
-filling a cleared seat. The clearance is UK-issued and relevant to NATO-aligned work, with
-transferable context for EU defence and intelligence-adjacent employers.
-
----
-
-## Repositories
-
-| Repository | Description | Page |
-|------------|-------------|------|
-| [ironveil](https://github.com/rootdrifter/ironveil) | Hardened Fedora workstation — LUKS2 full-disk encryption with Nitrokey 3A NFC FIDO2 hardware key, dracut-sshd remote SSH unlock, WireGuard VPN, AdGuard Home DNS filtering. Living build. | [view](https://rootdrifter.github.io/ironveil/) |
-| [nullbyte](https://github.com/rootdrifter/nullbyte) | GrapheneOS Pixel 10 Pro Fold — nine compartmentalised operational profiles, per-profile encryption, RethinkDNS per-app firewall, Termux SSH integration with IRONVEIL. Living build. | [view](https://rootdrifter.github.io/nullbyte/) |
-| [spectre](https://github.com/rootdrifter/spectre) | Grey-box penetration test — peer Apache 2.4 host against a self-hardened PostgreSQL server; nmap, Gobuster, Nikto, WhatWeb, LinPEAS; SHA-256 evidence chain; countermeasures mapped to ISO/IEC 27002 and CIS benchmarks. | [view](https://rootdrifter.github.io/spectre/) |
-| [mirage](https://github.com/rootdrifter/mirage) | Dissertation research — dual-pathway causal evaluation framework; 88,647 phishing emails; hybrid DAG construction (GES, PC, Bayesian Networks, DeepNOTEARS) validated with DoWhy refutation; GPT-4 / Claude / Gemini / DeepSeek benchmarked for causal-reasoning fidelity. | [view](https://rootdrifter.github.io/mirage/) |
-| [oracle](https://github.com/rootdrifter/oracle) | Applied ML security research — satellite image classification (RSI-CB256); custom CNN (TerraCNN, 93.97%) vs. transfer learning (ResNet-18, 99.11%) vs. classical baselines; class-imbalance handling mapped to rare-attack-class detection. | [view](https://rootdrifter.github.io/oracle/) |
-| [gauntlet](https://github.com/rootdrifter/gauntlet) | CTF writeups — TryHackMe and HackTheBox; methodology-first format covering reconnaissance, enumeration, exploitation, post-exploitation, and lessons learned, with per-machine **MITRE ATT&CK** technique mapping (the offensive→detection bridge for SOC work). Ongoing. | [view](https://rootdrifter.github.io/gauntlet/) |
+| Repo | Description | Status | Pages |
+|------|-------------|--------|-------|
+| [ironveil](https://github.com/rootdrifter/ironveil) | Hardened Fedora: LUKS2, FIDO2, WireGuard, AdGuard Home | Living Build | [View](https://rootdrifter.github.io/ironveil/) |
+| [nullbyte](https://github.com/rootdrifter/nullbyte) | GrapheneOS Pixel 10 Pro Fold: nine isolated profiles, Titan M2 verified boot | Living Build | [View](https://rootdrifter.github.io/nullbyte/) |
+| [spectre](https://github.com/rootdrifter/spectre) | Grey-box pentest: Apache host from a CIS-hardened PostgreSQL server; PTES, CWE/ISO 27002 | Complete | [View](https://rootdrifter.github.io/spectre/) |
+| [oracle](https://github.com/rootdrifter/oracle) | Applied ML security: TerraCNN 93.97% vs ResNet-18 99.11%; imbalance + adversarial analysis | Complete | [View](https://rootdrifter.github.io/oracle/) |
+| [mirage](https://github.com/rootdrifter/mirage) | Dissertation: causal LLM evaluation over an 88,647-email phishing corpus (ICC 0.98) | Complete | [View](https://rootdrifter.github.io/mirage/) |
+| [gauntlet](https://github.com/rootdrifter/gauntlet) | CTF writeups, methodology-first, MITRE ATT&CK + defender-perspective detection | Active | [View](https://rootdrifter.github.io/gauntlet/) |
+| [sec-plus-notes](https://github.com/rootdrifter/sec-plus-notes) | Security+ SY0-701 notes, 90-question practice exam, SOC shift scenarios | Ongoing | — |
+| watchtower | Wazuh SIEM home lab: 10 ATT&CK-mapped detection scenarios | In Build | Coming soon |
 
 ---
 
 ## Skills
 
-| Category | Detail |
-|----------|--------|
-| Languages | Python, Bash |
-| Offensive tooling | nmap, Gobuster, Nikto, WhatWeb, LinPEAS, Wireshark |
-| Defensive / SOC foundations | SIEM and detection concepts, NIST SP 800-61 incident-response lifecycle, MITRE ATT&CK mapping — studied and documented in [sec-plus-notes](https://github.com/rootdrifter/sec-plus-notes) and applied in [gauntlet](https://github.com/rootdrifter/gauntlet) writeups (blue-team transfer notes) |
-| Platforms | Kali Linux, Fedora, GrapheneOS |
-| Frameworks & standards | PTES, ISO/IEC 27002, CIS Benchmarks, OWASP, MITRE ATT&CK, NIST CSF |
+| Offensive | Defensive | Research |
+|-----------|-----------|----------|
+| Penetration testing (PTES) | Linux & mobile hardening | ML for security |
+| Enumeration & recon (nmap) | SIEM / detection (Wazuh) | Causal inference |
+| Web app testing (OWASP) | Incident response (NIST 800-61) | LLM evaluation |
+| Privilege escalation | DNS filtering / segmentation | Phishing analysis |
+| MITRE ATT&CK mapping | FIDO2 · FDE · CIS baselines | Statistical validation |
 
 ---
 
-## Certifications in progress
+## Currently working on
 
-- **CompTIA Security+** — structured study notes mapped to the portfolio: [sec-plus-notes](https://github.com/rootdrifter/sec-plus-notes)
-- **CEH — Certified Ethical Hacker** (exam scheduled 2026)
+- 🔬 CompTIA Sec+ SY0-701
+- 🛡️ Wazuh SIEM home lab (watchtower)
+- 🚩 TryHackMe / HackTheBox CTF practice
+- 📋 Applying: cleared security roles, UK/NL/DE
 
 ---
 
-## Currently seeking
+## GitHub
 
-Cleared **entry-level** roles, in priority order:
-
-1. SOC Analyst (L1/L2)
-2. Penetration Tester / Security Consultant
-3. Security Researcher
-4. Threat Intelligence Analyst
-
-Primary markets: **United Kingdom · Netherlands · Germany** — open to English-language roles
-internationally.
+![GitHub followers](https://img.shields.io/github/followers/rootdrifter)
+![Profile views](https://komarev.com/ghpvc/?username=rootdrifter)
