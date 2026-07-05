@@ -18,6 +18,9 @@ Germany. Evidence-led portfolio across offensive work (grey-box pentest, CTF), d
 engineering (Linux and GrapheneOS hardening, Wazuh detection), and security research (applied ML,
 causal LLM phishing evaluation) — documented end-to-end, not asserted.
 
+First Class BSc in Computer Networks & Cyber Security. Pseudonymous by design — a named CV with
+full academic and contact detail is available on request.
+
 ---
 
 ## Portfolio
