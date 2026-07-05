@@ -33,7 +33,7 @@ transferable context for EU defence and intelligence-adjacent employers.
 | [spectre](https://github.com/rootdrifter/spectre) | Grey-box penetration test — peer Apache 2.4 host against a self-hardened PostgreSQL server; nmap, Gobuster, Nikto, WhatWeb, LinPEAS; SHA-256 evidence chain; countermeasures mapped to ISO/IEC 27002 and CIS benchmarks. |
 | [mirage](https://github.com/rootdrifter/mirage) | Dissertation research — dual-pathway causal evaluation framework; 88,647 phishing emails; hybrid DAG construction (GES, PC, Bayesian Networks, DeepNOTEARS) validated with DoWhy refutation; GPT-4 / Claude / Gemini / DeepSeek benchmarked for causal-reasoning fidelity. |
 | [oracle](https://github.com/rootdrifter/oracle) | Applied ML security research — satellite image classification (RSI-CB256); custom CNN (TerraCNN, 93.97%) vs. transfer learning (ResNet-18, 99.11%) vs. classical baselines; class-imbalance handling mapped to rare-attack-class detection. |
-| [gauntlet](https://github.com/rootdrifter/gauntlet) | CTF writeups — TryHackMe and HackTheBox; methodology-first format covering reconnaissance, enumeration, exploitation, post-exploitation, and lessons learned. Ongoing. |
+| [gauntlet](https://github.com/rootdrifter/gauntlet) | CTF writeups — TryHackMe and HackTheBox; methodology-first format covering reconnaissance, enumeration, exploitation, post-exploitation, and lessons learned, with per-machine **MITRE ATT&CK** technique mapping (the offensive→detection bridge for SOC work). Ongoing. |
 
 ---
 
