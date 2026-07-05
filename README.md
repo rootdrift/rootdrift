@@ -65,8 +65,8 @@ full academic and contact detail is available on request.
 Latest from **[rootdrifter.io/blog](https://rootdrifter.io/blog/)** — CTF writeups, pentest
 methodology, and security notes in the same evidence-led format as the portfolio:
 
-- [nmap: Beyond the Basics](https://rootdrifter.io/blog/tool-spotlight-nmap/)
 - [Building a Repeatable Enumeration Framework](https://rootdrifter.io/blog/methodology-enumeration-framework/)
+- [nmap: Beyond the Basics](https://rootdrifter.io/blog/tool-spotlight-nmap/)
 - [Sec+ SY0-701: Domain 2 — Threats, Vulnerabilities and Mitigations](https://rootdrifter.io/blog/sec-plus-domain-2-threats/)
 
 ---
