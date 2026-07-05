@@ -29,7 +29,7 @@ transferable context for EU defence and intelligence-adjacent employers.
 | Repository | Description |
 |------------|-------------|
 | [ironveil](https://github.com/rootdrifter/ironveil) | Hardened Fedora workstation — LUKS2 full-disk encryption with Nitrokey 3A NFC FIDO2 hardware key, dracut-sshd remote SSH unlock, WireGuard VPN, AdGuard Home DNS filtering. Living build. |
-| [nullbyte](https://github.com/rootdrifter/nullbyte) | GrapheneOS Pixel 10 Pro Fold — compartmentalised daemon profiles mapped to operational identities, per-profile encryption, RethinkDNS per-app firewall, Termux SSH integration with IRONVEIL. Living build. |
+| [nullbyte](https://github.com/rootdrifter/nullbyte) | GrapheneOS Pixel 10 Pro Fold — nine compartmentalised operational profiles, per-profile encryption, RethinkDNS per-app firewall, Termux SSH integration with IRONVEIL. Living build. |
 | [spectre](https://github.com/rootdrifter/spectre) | Grey-box penetration test — peer Apache 2.4 host against a self-hardened PostgreSQL server; nmap, Gobuster, Nikto, WhatWeb, LinPEAS; SHA-256 evidence chain; countermeasures mapped to ISO/IEC 27002 and CIS benchmarks. |
 | [mirage](https://github.com/rootdrifter/mirage) | Dissertation research — dual-pathway causal evaluation framework; 88,647 phishing emails; hybrid DAG construction (GES, PC, Bayesian Networks, DeepNOTEARS) validated with DoWhy refutation; GPT-4 / Claude / Gemini / DeepSeek benchmarked for causal-reasoning fidelity. |
 | [oracle](https://github.com/rootdrifter/oracle) | Applied ML security research — satellite image classification (RSI-CB256); custom CNN (TerraCNN, 93.97%) vs. transfer learning (ResNet-18, 99.11%) vs. classical baselines; class-imbalance handling mapped to rare-attack-class detection. |
