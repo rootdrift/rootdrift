@@ -1,5 +1,7 @@
 # rootdrifter
 
+🌐 **Full portfolio: <https://rootdrifter.github.io>** — interactive project pages, clearance details, and the complete skills matrix.
+
 **Cybersecurity practitioner — hardened systems, offensive security, and applied ML security research.**
 
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0a2540)
@@ -26,14 +28,14 @@ transferable context for EU defence and intelligence-adjacent employers.
 
 ## Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [ironveil](https://github.com/rootdrifter/ironveil) | Hardened Fedora workstation — LUKS2 full-disk encryption with Nitrokey 3A NFC FIDO2 hardware key, dracut-sshd remote SSH unlock, WireGuard VPN, AdGuard Home DNS filtering. Living build. |
-| [nullbyte](https://github.com/rootdrifter/nullbyte) | GrapheneOS Pixel 10 Pro Fold — nine compartmentalised operational profiles, per-profile encryption, RethinkDNS per-app firewall, Termux SSH integration with IRONVEIL. Living build. |
-| [spectre](https://github.com/rootdrifter/spectre) | Grey-box penetration test — peer Apache 2.4 host against a self-hardened PostgreSQL server; nmap, Gobuster, Nikto, WhatWeb, LinPEAS; SHA-256 evidence chain; countermeasures mapped to ISO/IEC 27002 and CIS benchmarks. |
-| [mirage](https://github.com/rootdrifter/mirage) | Dissertation research — dual-pathway causal evaluation framework; 88,647 phishing emails; hybrid DAG construction (GES, PC, Bayesian Networks, DeepNOTEARS) validated with DoWhy refutation; GPT-4 / Claude / Gemini / DeepSeek benchmarked for causal-reasoning fidelity. |
-| [oracle](https://github.com/rootdrifter/oracle) | Applied ML security research — satellite image classification (RSI-CB256); custom CNN (TerraCNN, 93.97%) vs. transfer learning (ResNet-18, 99.11%) vs. classical baselines; class-imbalance handling mapped to rare-attack-class detection. |
-| [gauntlet](https://github.com/rootdrifter/gauntlet) | CTF writeups — TryHackMe and HackTheBox; methodology-first format covering reconnaissance, enumeration, exploitation, post-exploitation, and lessons learned, with per-machine **MITRE ATT&CK** technique mapping (the offensive→detection bridge for SOC work). Ongoing. |
+| Repository | Description | Page |
+|------------|-------------|------|
+| [ironveil](https://github.com/rootdrifter/ironveil) | Hardened Fedora workstation — LUKS2 full-disk encryption with Nitrokey 3A NFC FIDO2 hardware key, dracut-sshd remote SSH unlock, WireGuard VPN, AdGuard Home DNS filtering. Living build. | [view](https://rootdrifter.github.io/ironveil/) |
+| [nullbyte](https://github.com/rootdrifter/nullbyte) | GrapheneOS Pixel 10 Pro Fold — nine compartmentalised operational profiles, per-profile encryption, RethinkDNS per-app firewall, Termux SSH integration with IRONVEIL. Living build. | [view](https://rootdrifter.github.io/nullbyte/) |
+| [spectre](https://github.com/rootdrifter/spectre) | Grey-box penetration test — peer Apache 2.4 host against a self-hardened PostgreSQL server; nmap, Gobuster, Nikto, WhatWeb, LinPEAS; SHA-256 evidence chain; countermeasures mapped to ISO/IEC 27002 and CIS benchmarks. | [view](https://rootdrifter.github.io/spectre/) |
+| [mirage](https://github.com/rootdrifter/mirage) | Dissertation research — dual-pathway causal evaluation framework; 88,647 phishing emails; hybrid DAG construction (GES, PC, Bayesian Networks, DeepNOTEARS) validated with DoWhy refutation; GPT-4 / Claude / Gemini / DeepSeek benchmarked for causal-reasoning fidelity. | [view](https://rootdrifter.github.io/mirage/) |
+| [oracle](https://github.com/rootdrifter/oracle) | Applied ML security research — satellite image classification (RSI-CB256); custom CNN (TerraCNN, 93.97%) vs. transfer learning (ResNet-18, 99.11%) vs. classical baselines; class-imbalance handling mapped to rare-attack-class detection. | [view](https://rootdrifter.github.io/oracle/) |
+| [gauntlet](https://github.com/rootdrifter/gauntlet) | CTF writeups — TryHackMe and HackTheBox; methodology-first format covering reconnaissance, enumeration, exploitation, post-exploitation, and lessons learned, with per-machine **MITRE ATT&CK** technique mapping (the offensive→detection bridge for SOC work). Ongoing. | [view](https://rootdrifter.github.io/gauntlet/) |
 
 ---
 
