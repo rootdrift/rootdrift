@@ -43,8 +43,9 @@ transferable context for EU defence and intelligence-adjacent employers.
 |----------|--------|
 | Languages | Python, Bash |
 | Offensive tooling | nmap, Gobuster, Nikto, WhatWeb, LinPEAS, Wireshark |
+| Defensive / SOC foundations | SIEM and detection concepts, NIST SP 800-61 incident-response lifecycle, MITRE ATT&CK mapping — studied and documented in [sec-plus-notes](https://github.com/rootdrifter/sec-plus-notes) and applied in [gauntlet](https://github.com/rootdrifter/gauntlet) writeups (blue-team transfer notes) |
 | Platforms | Kali Linux, Fedora, GrapheneOS |
-| Frameworks & standards | PTES, ISO/IEC 27002, CIS Benchmarks, OWASP |
+| Frameworks & standards | PTES, ISO/IEC 27002, CIS Benchmarks, OWASP, MITRE ATT&CK, NIST CSF |
 
 ---
 
