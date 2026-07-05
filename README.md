@@ -24,7 +24,7 @@ Germany. Active portfolio, ongoing Sec+ study, CTF practice.
 |------|-------------|--------|-------|
 | [ironveil](https://github.com/rootdrifter/ironveil) | Hardened Fedora: LUKS2, FIDO2, WireGuard, AdGuard Home | Living Build | [View](https://rootdrifter.io/portfolio/ironveil/) |
 | [nullbyte](https://github.com/rootdrifter/nullbyte) | GrapheneOS Pixel 10 Pro Fold: nine isolated profiles, Titan M2 verified boot | Living Build | [View](https://rootdrifter.io/portfolio/nullbyte/) |
-| [spectre](https://github.com/rootdrifter/spectre) | Grey-box pentest: Apache host from a CIS-hardened PostgreSQL server; PTES, CWE/ISO 27002 | Complete | [View](https://rootdrifter.io/portfolio/spectre/) |
+| [spectre](https://github.com/rootdrifter/spectre) | Grey-box pentest + purple-team: Apache host from a CIS-hardened PostgreSQL server; PTES, CWE/ISO 27002, each attack step mapped to its Wazuh detection | Complete | [View](https://rootdrifter.io/portfolio/spectre/) |
 | [oracle](https://github.com/rootdrifter/oracle) | Applied ML security: TerraCNN 93.97% vs ResNet-18 99.11%; imbalance + adversarial analysis | Complete | [View](https://rootdrifter.io/portfolio/oracle/) |
 | [mirage](https://github.com/rootdrifter/mirage) | Dissertation: causal LLM evaluation over an 88,647-email phishing corpus (ICC 0.98) | Complete | [View](https://rootdrifter.io/portfolio/mirage/) |
 | [gauntlet](https://github.com/rootdrifter/gauntlet) | CTF writeups, methodology-first, MITRE ATT&CK + defender-perspective detection | Active | [View](https://rootdrifter.io/portfolio/gauntlet/) |
