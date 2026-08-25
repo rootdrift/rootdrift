@@ -2,7 +2,7 @@
   MANUAL GITHUB PROFILE ACTIONS (GitHub UI only — cannot be set from the repo):
     1. Pin repositories in this order: ironveil · nullbyte · spectre · oracle · mirage · gauntlet
     2. Profile → Edit → Website:  https://rootdrifter.io
-    3. Profile → Edit → Bio:      "Security-cleared | CTF | SIEM lab | Available UK/NL/DE"
+    3. Profile → Edit → Bio:      "Security practitioner | CTF | SIEM lab | Available UK/NL/DE"
   rel="me" identity verification lives in the site <head> (rootdrifter-hub/theme/default.hbs):
     <link rel="me" href="https://github.com/rootdrifter">
   STATUS 2026-06-12: rootdrifter.io is LIVE (all routes 200). Header + Latest writing now point at it.
@@ -11,9 +11,7 @@
 🌐 **[rootdrifter.io](https://rootdrifter.io)** — security blog & platform: CTF writeups, pentest
 methodology, detection engineering · 📁 **[Portfolio](https://rootdrifter.io/portfolio/)** — project specs
 
-![Security Cleared](https://img.shields.io/badge/SECURITY%20CLEARED-UK%20GOVERNMENT%20CLEARANCE%20HELD-1f6feb?style=for-the-badge)
-
-Security-cleared professional building toward cleared entry-level roles in UK, Netherlands, and
+Professional building toward entry-level security roles in UK, Netherlands, and
 Germany. Evidence-led portfolio across offensive work (grey-box pentest, CTF), defensive
 engineering (Linux and GrapheneOS hardening, Wazuh detection), and security research (applied ML,
 causal LLM phishing evaluation) — documented end-to-end, not asserted.
@@ -56,7 +54,7 @@ full academic and contact detail is available on request.
 - 🛡️ Wazuh SIEM home lab (watchtower)
 - 🚩 TryHackMe / HackTheBox CTF practice
 - 🌐 [rootdrifter.io](https://rootdrifter.io) — blog & platform (live)
-- 📋 Applying: cleared security roles, UK/NL/DE
+- 📋 Applying: security roles, UK/NL/DE
 
 ---
 

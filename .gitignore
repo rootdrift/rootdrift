@@ -1,0 +1,3 @@
+# Local tooling / editor state — never publish
+.claude/
+.DS_Store
